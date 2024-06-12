@@ -18,7 +18,10 @@
     "worker-thread": "^1.1.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.4.0",
     "chai": "^5.1.1",
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0",
     "mocha": "^10.4.0"
   }
 }
