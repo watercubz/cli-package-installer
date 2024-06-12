@@ -1,0 +1,81 @@
+---
+
+# CLI Package Manager
+
+![CLI Package Manager](https://packages.zeek.org/img/bropkgmgr.png)
+
+## Description
+
+CLI Package Manager is a command-line tool (CLI) for managing dependencies in Node.js projects efficiently. It allows developers to install, uninstall, and update npm packages without leaving the terminal.
+
+## Installation
+
+To install CLI Package Manager, follow these steps:
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/watercubz/cli-package-manager.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd cli-package-manager
+```
+
+3. Install the project dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+Once CLI Package Manager is installed, you can run it from the terminal using the following command:
+
+```bash
+npm start
+```
+
+This will start the command-line interface where you can select the actions you want to perform, such as installing, uninstalling, or updating npm packages.
+
+### Running with `.bat` File
+
+You can also execute the program using the `run-cli.bat` file. Simply double-click the `run-cli.bat` file in your file explorer or run it from the command line with:
+
+```bash
+.\run-cli.bat
+```
+
+## Available Commands
+
+- `install`: Install one or multiple npm packages.
+- `uninstall`: Uninstall one or multiple npm packages.
+- `exit`: Exit the application.
+
+## Testing
+
+To run the project's unit tests, use the following command:
+
+```bash
+npm test
+```
+
+This will execute all tests defined in the `test` directory and provide feedback on the code quality.
+
+## Contribution
+
+Contributions are welcome! If you find any bugs or have ideas to improve this project, feel free to open an issue or submit a pull request.
+
+## Author
+
+This project was developed by [watercubz](https://github.com/watercubz).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+I hope this fits your needs. Let me know if there's anything else I can assist you with!
