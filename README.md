@@ -1,4 +1,3 @@
-```
 # CLI Package Manager
 
 ![CLI Package Manager](https://packages.zeek.org/img/bropkgmgr.png)
@@ -13,29 +12,29 @@ To install CLI Package Manager globally and use it across different projects, fo
 
 1. Install CLI Package Manager globally using npm:
 
-```bash
-npm install -g cli-package-manager
-```
+    ```bash
+    npm install -g cli-package-manager
+    ```
 
-This will install CLI Package Manager globally on your system, making it available for use in any project.
+    This will install CLI Package Manager globally on your system, making it available for use in any project.
 
 ## Usage
 
 Once CLI Package Manager is installed globally, you can run it from the terminal using the following command:
 
-```bash
-cli-package-manager
-```
+    ```bash
+    cli-package-manager
+    ```
 
-This will start the command-line interface where you can select the actions you want to perform, such as installing, uninstalling, or updating npm packages.
+    This will start the command-line interface where you can select the actions you want to perform, such as installing, uninstalling, or updating npm packages.
 
 ### Running with `.bat` File
 
 You can also execute the program using the `run-cli.bat` file. Simply double-click the `run-cli.bat` file in your file explorer or run it from the command line with:
 
-```bash
-.\run-cli.bat
-```
+    ```bash
+    .\run-cli.bat
+    ```
 
 ## Available Commands
 
@@ -47,11 +46,11 @@ You can also execute the program using the `run-cli.bat` file. Simply double-cli
 
 To run the project's unit tests, use the following command:
 
-```bash
-npm test
-```
+    ```bash
+    npm test
+    ```
 
-This will execute all tests defined in the `test` directory and provide feedback on the code quality.
+    This will execute all tests defined in the `test` directory and provide feedback on the code quality.
 
 ## Contribution
 
@@ -64,4 +63,3 @@ This project was developed by [watercubz](https://github.com/watercubz).
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
