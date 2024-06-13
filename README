@@ -1,3 +1,4 @@
+
 ---
 
 # CLI Package Manager
@@ -10,32 +11,22 @@ CLI Package Manager is a command-line tool (CLI) for managing dependencies in No
 
 ## Installation
 
-To install CLI Package Manager, follow these steps:
+To install CLI Package Manager globally and use it across different projects, follow these steps:
 
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/watercubz/cli-package-manager.git
-```
-
-2. Navigate to the project directory:
+1. Install CLI Package Manager globally using npm:
 
 ```bash
-cd cli-package-manager
+npm install -g cli-package-manager
 ```
 
-3. Install the project dependencies:
-
-```bash
-npm install
-```
+This will install CLI Package Manager globally on your system, making it available for use in any project.
 
 ## Usage
 
-Once CLI Package Manager is installed, you can run it from the terminal using the following command:
+Once CLI Package Manager is installed globally, you can run it from the terminal using the following command:
 
 ```bash
-npm start
+cli-package-manager
 ```
 
 This will start the command-line interface where you can select the actions you want to perform, such as installing, uninstalling, or updating npm packages.
@@ -76,6 +67,6 @@ This project was developed by [watercubz](https://github.com/watercubz).
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+--- 
 
-I hope this fits your needs. Let me know if there's anything else I can assist you with!
+Esta actualización debería proporcionar a los usuarios una guía clara sobre cómo instalar y utilizar tu CLI de forma global. ¡Espero que sea útil!
