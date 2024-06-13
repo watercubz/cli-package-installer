@@ -1,6 +1,4 @@
 
----
-
 # CLI Package Manager
 
 ![CLI Package Manager](https://packages.zeek.org/img/bropkgmgr.png)
@@ -66,7 +64,3 @@ This project was developed by [watercubz](https://github.com/watercubz).
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
---- 
-
-Esta actualización debería proporcionar a los usuarios una guía clara sobre cómo instalar y utilizar tu CLI de forma global. ¡Espero que sea útil!
