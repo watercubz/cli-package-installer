@@ -20,7 +20,7 @@ To install CLI Package Manager globally and use it across different projects, fo
 
 ## Usage
 
-Once CLI Package Manager is installed globally, you can run it from the terminal using the following command:
+1. Once CLI Package Manager is installed globally, you can run it from the terminal using the following command:
 
     ```bash
     cli-package-manager
@@ -30,7 +30,7 @@ Once CLI Package Manager is installed globally, you can run it from the terminal
 
 ### Running with `.bat` File
 
-You can also execute the program using the `run-cli.bat` file. Simply double-click the `run-cli.bat` file in your file explorer or run it from the command line with:
+1. You can also execute the program using the `run-cli.bat` file. Simply double-click the `run-cli.bat` file in your file explorer or run it from the command line with:
 
     ```bash
     .\run-cli.bat
@@ -44,7 +44,7 @@ You can also execute the program using the `run-cli.bat` file. Simply double-cli
 
 ## Testing
 
-To run the project's unit tests, use the following command:
+1. To run the project's unit tests, use the following command:
 
     ```bash
     npm test
